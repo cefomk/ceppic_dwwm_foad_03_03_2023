@@ -28,5 +28,5 @@ Repondez avec des requetes **sql** au questions suivantes , à vos réponses ajo
 6. Afficher le nom,prenom,salaire des employés ayant un salaire superieur a 10000$ et faisant partit du departement des ventes(sales) ?
 7. Afficher le nom,prenom,salaire des employés ayant un salaire compris entre 5000$ et 7000$ classé par salaire ?
 8. Afficher le nom,prenom des employés qui n'ont pas de telephone ?
-9. Afficher le nom,prenom des employés qui travaillent dans en marketing et finance ?
+9. Afficher le nom,prenom des employés qui travaillent en marketing et finance ?
 10. Afficher le nom,prenom,department des employés qui travaillent en administration,IT et Finance ?
